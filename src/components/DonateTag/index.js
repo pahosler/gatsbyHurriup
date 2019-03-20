@@ -10,7 +10,7 @@ const DonateTag = () => (
       <input name='hosted_button_id' type='hidden' value='P2S2YE9E2Z2GG' />
       <button
         alt='PayPal - The safer, easier way to pay online!'
-        className='button is-normal is-black'
+        className='button is-normal btn-donate'
         name='submit'>
         <i className='heart fa fa-heart-o fa-fw' aria-hidden='true' />
         <span id='donate'>DONATE</span>
