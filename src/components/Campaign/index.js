@@ -26,6 +26,7 @@ const Campaign = ({ contents }) => (
 Campaign.propTypes = {
   contents: PropTypes.arrayOf(
     PropTypes.shape({
+      slug: PropTypes.string,
       image: PropTypes.string,
       text: PropTypes.string,
     }),

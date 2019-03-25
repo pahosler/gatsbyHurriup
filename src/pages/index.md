@@ -8,10 +8,11 @@ description: >-
   providing information about preparing for hurricanes and other natural
   disasters.
 campaign:
-  - image: /img/david-kelly-headshot.jpg
+  - slug: david-kelly-fundraiser
+    image: /img/david-kelly-headshot.jpg
     text: >
       Fundraiser to help David Kelly and his family purchase and install an
-      underground tornado shelter. 
+      underground tornado shelter.
 offerings:
   blurbs:
     - image: 'https://via.placeholder.com/200'
@@ -78,4 +79,3 @@ meta_description: >-
   been affected by a natural disaster and providing information about preparing
   for hurricanes and other natural disaster.
 ---
-
