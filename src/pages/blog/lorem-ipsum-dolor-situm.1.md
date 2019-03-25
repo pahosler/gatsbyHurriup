@@ -3,7 +3,7 @@ templateKey: article-page
 title: Lorem Ipsum Dolor Situm
 slug: lorem-ipsum-dolor-situm
 date: 2019-03-20T03:55:49.370Z
-cover: /img/products-grid3.jpg
+cover: /img/david-kelly.jpg
 meta_title: Lorem Ipsum Dolor Situm
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur

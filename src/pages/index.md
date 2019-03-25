@@ -3,17 +3,26 @@ templateKey: 'home-page'
 title: hurriup.org
 meta_title: Home | hurriup.org
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
-heading: Lorem ipsum dolor sit amet
+  hurriup.org landing page. hurriup.org is dedicated to helping people who
+  have been affected by a natural disaster and providing information about
+  preparing for hurricanes and other natural disaster.
+heading: >
+ hurriup.org
 description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+  Dedicated to helping people who have been affected by a natural disaster
+  and providing information about preparing for hurricanes and other natural
+  disasters.
+campaign:
+  - image: /img/david-kelly-headshot.jpg
+    text: >
+      Clicking on this link which refers to B2B Marketing awards shortlist will
+      take you to the awards page of the customer journey. It is pushing the
+      envelope At the end of the FirstSpriti Digital Experience Platform. Helping
+      marketers serve unmatched cross-phase personalized experiences at every
+      step of the FirstSpriti Digital Experience Platform.
 offerings:
   blurbs:
-    - image: /img/coffee.png
+    - image: https://via.placeholder.com/200
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus
         sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem
@@ -24,7 +33,7 @@ offerings:
         Suspendisse sapien magna, vestibulum non vehicula id, pellentesque in ante. Nullam
         sed auctor tellus. Sed ipsum sem, dapibus nec eros in, feugiat sagittis mi.
         Nullam et dui interdum, varius nibh eu, efficitur metus.
-    - image: /img/coffee-gear.png
+    - image: https://via.placeholder.com/200
       text: >
         Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi. Nam
         ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque luctus
@@ -35,7 +44,7 @@ offerings:
         Etiam sed dui dapibus mauris congue facilisis. Nulla convallis, lectus vel
         vehicula interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id tortor.
         Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.
-    - image: /img/tutorials.png
+    - image: https://via.placeholder.com/200
       text: >
         Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus vitae sollicitudin
         pharetra, ipsum augue tristique urna, in rhoncus quam tortor eget sem. Maecenas eu
@@ -45,7 +54,7 @@ offerings:
         Sed luctus lacus vel tempus posuere. Ut suscipit auctor tortor. Phasellus leo dui, elementum
         non sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet porttitor vehicula,
         quam augue pretium erat, at commodo nisl tellus non risus.
-    - image: /img/meeting-space.png
+    - image: https://via.placeholder.com/200
       text: >
         Vestibulum libero lectus, dignissim eget magna sit amet, malesuada tincidunt mi. Vivamus
         sed erat iaculis mauris efficitur vehicula. Aliquam sed urna at tellus ullamcorper
