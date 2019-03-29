@@ -1,25 +1,27 @@
 ---
 templateKey: article-page
-title: Lorem Ipsum Dolor Situm
-slug: lorem-ipsum-dolor-situm
+title: Fundraiser for David Kelly
+slug: david-kelly-fundraiser
 date: 2019-03-20T03:55:49.370Z
 cover: /img/david-kelly.jpg
-meta_title: Lorem Ipsum Dolor Situm
+meta_title: Fundraiser for David Kelly
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
 tags:
-  - lorem
-  - ipsum
+  - fundraiser
+  - shelter
 ---
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+this is the thing natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 ## Most Amazing Blogging Experience.
+
+![shelter](/img/underground-shelter.jpg)
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 

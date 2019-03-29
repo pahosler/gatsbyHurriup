@@ -32,12 +32,18 @@ const HomePageTemplate = ({
         <HurricaneStatic className={'maria-container is-hidden-desktop'} />
         <div className='container'>
           <div className='columns'>
-            <div >
+            <div>
               <img src={logo} style={{ height: 80 }} />
-              <div style={{width: 300, color: '#ffffff', lineHeight: 1, fontWeight: 'bolder'}}>
-                  OUR MISSION AT HURRIUP.ORG IS TO EDUCATE AND INFORM THE PUBLIC
-                  ABOUT HURRICANE AWARENESS, PREPARATION AND DIRECTED DISASTER
-                  RELIEF.
+              <div
+                style={{
+                  width: 300,
+                  color: '#ffffff',
+                  lineHeight: 1,
+                  fontWeight: 'bolder',
+                }}>
+                OUR MISSION AT HURRIUP.ORG IS TO EDUCATE AND INFORM THE PUBLIC
+                ABOUT HURRICANE AWARENESS, PREPARATION AND DIRECTED DISASTER
+                RELIEF.
               </div>
             </div>
           </div>
@@ -47,17 +53,14 @@ const HomePageTemplate = ({
     <section className='section section--gradient'>
       <div className='container'>
         <div className='section'>
-          <div className='columns'>
-            <div className='column is-10 is-offset-1'>
+          <div className='columns is-mobile is-centered'>
+            <div className='column is-half'>
               <div className='content'>
                 <div>
                   <h1 className='has-text-weight-semibold has-text-centered'>
                     {heading}
                   </h1>
-                  <div>{description}</div>
-                </div>
-                <div className='paypal'>
-                  <Paypal />
+                  <div><p className='has-text-centered'>{description}</p></div>
                 </div>
               </div>
             </div>
@@ -65,32 +68,42 @@ const HomePageTemplate = ({
         </div>
       </div>
     </section>
-    <section className='section section--gradient'>
-      <div className='container'>
-        <div className='section'>
+    <section className='section'>
+      <div className='columns is-mobile is-centered'>
+        <div className='content'>
+          <Campaign contents={campaign} />
           <div className='columns'>
-            <div className='column is-10 is-offset-1'>
-              <div className='content'>
-                <Campaign contents={campaign} />
-                <div className='paypal'>
-                  <Paypal />
-                </div>
+            <div className='column is-10 is-offset-2'>
+              <div className='paypal'>
+                <Paypal />
+              </div>
+            </div>
+          </div>
+          <div className='columns '>
+            <div className='column is-10 is-offset-5'>
+              <div className='has-text-centered is-size-2' style={{width: 300, lineHeight: 1}}>
+                <p>
+                  Thank
+                  Y<i className='heart fa fa-heart-o fa-fw is-size-2' aria-hidden='true' style={{marginRight: -10}} />U
+                    for supporting our efforts
+                </p>
               </div>
             </div>
           </div>
         </div>
       </div>
     </section>
+
     <section className='section section--gradient'>
       <div className='container'>
         <div className='section'>
-          <div className='columns'>
+          <div className='columns is-desktop'>
             <div className='column is-10 is-offset-1'>
               <div className='content'>
                 <div>
                   <Offerings gridItems={offerings.blurbs} />
                   <h2 className='has-text-weight-semibold is-size-2'>
-                  Testimonials
+                    Testimonials
                   </h2>
                   <Testimonials testimonials={testimonials} />
                 </div>

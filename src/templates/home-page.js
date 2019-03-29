@@ -42,6 +42,7 @@ export const pageQuery = graphql`
         campaign {
           image
           text
+          slug
         }
         offerings {
           blurbs {

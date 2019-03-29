@@ -15,19 +15,12 @@ campaign:
       underground tornado shelter.
 offerings:
   blurbs:
-    - image: 'https://via.placeholder.com/200'
+    - image: /img/HuRLO-man.gif
       text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus
-        sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem
-        molestie sapien ornare cursus. Praesent eget volutpat est. Proin at
-        sagittis ex. Duis quis dui magna. Nullam urna purus, blandit vitae
-        tincidunt ut, scelerisque eu sem. Etiam porttitor elit eget mi luctus,
-        vitae blandit enim pretium. Aenean nec hendrerit leo, a bibendum magna.
-        In hac habitasse platea dictumst. Suspendisse sapien magna, vestibulum
-        non vehicula id, pellentesque in ante. Nullam sed auctor tellus. Sed
-        ipsum sem, dapibus nec eros in, feugiat sagittis mi. Nullam et dui
-        interdum, varius nibh eu, efficitur metus.
-    - image: 'https://via.placeholder.com/200'
+        <strong>Hurricane Preparation 2017</strong> By: Patrap<br/><br/>
+        It's time to dust off that family disaster plan, or in many cases, create one.
+        Keeping your family safe during a hurricane starts with proper planning.
+    - image: /img/tropical-tidbits.png
       text: >
         Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
         Nam ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque
@@ -39,7 +32,7 @@ offerings:
         congue facilisis. Nulla convallis, lectus vel vehicula interdum, turpis
         nunc aliquet sem, ac iaculis ligula mauris id tortor. Sed eget ornare
         orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.
-    - image: 'https://via.placeholder.com/200'
+    - image: /img/portlight-logo.png
       text: >
         Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus
         vitae sollicitudin pharetra, ipsum augue tristique urna, in rhoncus quam
@@ -51,7 +44,7 @@ offerings:
         tortor. Phasellus leo dui, elementum non sollicitudin eget, porta
         vehicula odio. Sed mollis, metus sit amet porttitor vehicula, quam augue
         pretium erat, at commodo nisl tellus non risus.
-    - image: 'https://via.placeholder.com/200'
+    - image: /img/underground-shelter.jpg
       text: >
         Vestibulum libero lectus, dignissim eget magna sit amet, malesuada
         tincidunt mi. Vivamus sed erat iaculis mauris efficitur vehicula.
@@ -64,15 +57,10 @@ offerings:
         euismod convallis, felis elit sodales urna, at aliquet mi elit auctor
         risus.
 testimonials:
-  - author: Vaibhav Sharma
+  - author: Karynell - Puerto Rico
     quote: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed
-      diam luctus pretium. Sed quis egestas libero. Vestibulum nec venenatis
-      ligula.
-  - author: Subarashi San
-    quote: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
-      dignissim ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      I don’t have words to thank y’all for this generator. My sister was crying on the phone and my heart is beating so fast because I know this is really important for them. Thanks thanks a lot. She got it and yall make a wish come true.
+
 meta_title: Home | hurriup.org
 meta_description: >-
   hurriup.org landing page. hurriup.org is dedicated to helping people who have

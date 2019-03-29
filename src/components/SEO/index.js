@@ -43,9 +43,9 @@ const SE0 = ({ title, meta_title, meta_desc, cover, slug, date }) => {
       '@type': 'WebPage',
       '@id': postURL,
     },
-    'author': {
+    author: {
       '@type': 'Person',
-      'name': config.userName,
+      name: config.userName,
     },
     image: {
       '@type': 'ImageObject',

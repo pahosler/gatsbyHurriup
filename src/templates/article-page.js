@@ -6,11 +6,13 @@ import ArticleTemplate from '../components/ArticleTemplate'
 import SE0 from '../components/SEO'
 import Share from '../components/Share'
 import Disqus from '../components/Disqus'
+import DonateTag from '../components/DonateTag'
 
 const ArticlePage = ({data}) => {
   const {markdownRemark: post} = data
   return (
     <section className='section'>
+      <DonateTag />
       <SE0
         title={post.frontmatter.title}
         meta_title={post.frontmatter.meta_title}

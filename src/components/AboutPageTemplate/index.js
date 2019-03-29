@@ -1,21 +1,21 @@
 import React from 'react'
 import Content from '../Content'
 import PropTypes from 'prop-types'
+import DonateTag from '../DonateTag'
 
-const AboutPageTemplate = ({title, content, contentComponent}) => {
+const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
     <div>
+      <DonateTag />
       <section className='hero is-primary is-bold is-medium'>
         <div className='hero-body'>
           <div className='container'>
             <div className='columns'>
               <div className='column is-10 is-offset-1'>
                 <div className='section'>
-                  <h1 className='title'>
-                    {title}
-                  </h1>
+                  <h1 className='title'>{title}</h1>
                 </div>
               </div>
             </div>
