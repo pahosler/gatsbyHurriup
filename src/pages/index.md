@@ -8,8 +8,8 @@ description: >-
   providing information about preparing for hurricanes and other natural
   disasters.
 campaign:
-  - slug: david-kelly-fundraiser
-    image: /img/david-kelly-headshot.jpg
+  - image: /img/david-kelly-headshot.jpg
+    slug: david-kelly-fundraiser
     text: >
       Fundraiser to help David Kelly and his family purchase and install an
       underground tornado shelter.
@@ -18,11 +18,11 @@ offerings:
     - slug: hurricane-preparation-2017
       image: /img/HuRLO-man.gif
       text: >
-        <strong>Hurricane Preparation 2017</strong> <i>By: Patrap</i><br/><br/>
-        It's time to dust off that family disaster plan, or in many cases, create one.
-        Keeping your family safe during a hurricane starts with proper planning.
-    - slug: some-stuff
-      image: /img/tropical-tidbits.png
+        <strong>Hurricane Preparation 2017</strong> By: Patrap<br/><br/> It's
+        time to dust off that family disaster plan, or in many cases, create
+        one. Keeping your family safe during a hurricane starts with proper
+        planning.
+    - image: /img/tropical-tidbits.png
       text: >
         Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
         Nam ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque
@@ -60,14 +60,36 @@ offerings:
         vitae, bibendum auctor lacus. Suspendisse potenti. In tempor, massa quis
         euismod convallis, felis elit sodales urna, at aliquet mi elit auctor
         risus.
+    - image: /img/pet-disaster-preparedness.jpg
+      text: >-
+        # Dogs Like Rain
+
+
+        _by P.A. Hosler_
+
+
+        Once upon a dream in another lifetime, cheese doodles frolicked in the
+        Autumn mists of Brumbalee. One day it rained, and the dogs came out to
+        play. Dogs being dogs, they ate the cheese doodles, because dogs
+        **LOVE** cheese. The End... _or is it?_
+
+
+        **[hurriup...](https://hurriup.org)**
 testimonials:
   - author: Karynell - Puerto Rico
     quote: >-
+<<<<<<< HEAD
       I don’t have words to thank y’all for this generator. My sister was crying on
       the phone and my heart is beating so fast because I know this is really
       important for them. Thanks thanks a lot. She got it and yall make a wish
       come true.
 
+=======
+      I don’t have words to thank y’all for this generator. My sister was crying
+      on the phone and my heart is beating so fast because I know this is really
+      important for them. Thanks thanks a lot. She got it and yall make a wish
+      come true.
+>>>>>>> e0b622e73810dd39a1048ac864a388f354a47ab8
 meta_title: Home | hurriup.org
 meta_description: >-
   hurriup.org landing page. hurriup.org is dedicated to helping people who have
