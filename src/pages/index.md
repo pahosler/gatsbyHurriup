@@ -78,18 +78,11 @@ offerings:
 testimonials:
   - author: Karynell - Puerto Rico
     quote: >-
-<<<<<<< HEAD
       I don’t have words to thank y’all for this generator. My sister was crying on
       the phone and my heart is beating so fast because I know this is really
       important for them. Thanks thanks a lot. She got it and yall make a wish
       come true.
 
-=======
-      I don’t have words to thank y’all for this generator. My sister was crying
-      on the phone and my heart is beating so fast because I know this is really
-      important for them. Thanks thanks a lot. She got it and yall make a wish
-      come true.
->>>>>>> e0b622e73810dd39a1048ac864a388f354a47ab8
 meta_title: Home | hurriup.org
 meta_description: >-
   hurriup.org landing page. hurriup.org is dedicated to helping people who have
