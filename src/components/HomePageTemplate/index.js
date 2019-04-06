@@ -21,31 +21,31 @@ const HomePageTemplate = ({
   testimonials,
 }) => (
   <div>
+    <DonateTag />
     <Helmet>
       <title>{meta_title}</title>
       <meta name='description' content={meta_description} />
     </Helmet>
-    <DonateTag />
-    <section className='hero'>
-      <div className='hero-body'>
-        <HurricaneVideo className={'video-container is-hidden-mobile'} />
-        <HurricaneStatic className={'maria-container is-hidden-desktop'} />
-        <div className='container'>
-          <div className='columns'>
-            <div>
-              <img src={logo} style={{ height: 80 }} />
-              <div
-                style={{
-                  width: 300,
-                  color: '#ffffff',
-                  lineHeight: 1,
-                  fontWeight: 'bolder',
-                }}>
+    <section className='hero is-fullheight'>
+      <div className='hero-video' >
+        <HurricaneVideo className={'is-hidden-mobile'} />
+      </div>
+      <div className='hero-body is-fullheight'>
+
+        <HurricaneStatic className={'maria-container is-hidden-desktop is-hidden-tablet'} />
+        <div className='box is-transparent'>
+          <img src={logo} style={{ height: 80 }} />
+          <div className='subtitle'
+            style={{
+              width: 350,
+              height: 20,
+              color: '#ffffff',
+              lineHeight: 1,
+              fontWeight: 'bolder',
+            }}>
                 OUR MISSION AT HURRIUP.ORG IS TO EDUCATE AND INFORM THE PUBLIC
                 ABOUT HURRICANE AWARENESS, PREPARATION AND DIRECTED DISASTER
                 RELIEF.
-              </div>
-            </div>
           </div>
         </div>
       </div>
@@ -53,14 +53,16 @@ const HomePageTemplate = ({
     <section className='section section--gradient'>
       <div className='container'>
         <div className='section'>
-          <div className='columns is-mobile is-centered'>
+          <div className='columns is-centered'>
             <div className='column is-half'>
               <div className='content'>
                 <div>
                   <h1 className='has-text-weight-semibold has-text-centered'>
                     {heading}
                   </h1>
-                  <div><p className='has-text-centered'>{description}</p></div>
+                  <div>
+                    <p className='has-text-centered'>{description}</p>
+                  </div>
                 </div>
               </div>
             </div>
@@ -68,26 +70,47 @@ const HomePageTemplate = ({
         </div>
       </div>
     </section>
+
     <section className='section'>
+
       <div className='columns is-mobile is-centered'>
         <div className='content'>
           <Campaign contents={campaign} />
           <div className='columns'>
-            <div className='column is-10 is-offset-2'>
-              <div className='paypal'>
-                <Paypal />
+            <div className='column is-4 is-offset-4'>
+              <div className='has-text-centered is-size-2'>
+                <div>
+                  Thank Y
+                  <i
+                    className='heart fa fa-heart-o fa-fw is-size-2'
+                    aria-hidden='true'
+                    style={{ marginRight: -10 }}
+                  />
+                  U for supporting our efforts
+                </div>
               </div>
             </div>
           </div>
-          <div className='columns '>
-            <div className='column is-10 is-offset-5'>
-              <div className='has-text-centered is-size-2' style={{width: 300, lineHeight: 1}}>
-                <p>
-                  Thank
-                  Y<i className='heart fa fa-heart-o fa-fw is-size-2' aria-hidden='true' style={{marginRight: -10}} />U
-                    for supporting our efforts
-                </p>
-              </div>
+          <div className='columns'>
+            <div className='column is-4 is-offset-4'>
+
+              <article className='message has-text-centered is-darkseagreen' >
+                <div style={{float: 'left', marginTop: 40}}>
+                  <i className='fa fa-quote-left fa-2x fa-fw' />
+                </div>
+                <div style={
+                  {
+                    float: 'right',
+                    marginTop: 40,
+                  }
+                } >
+                  <i className='fa fa-quote-right fa-2x fa-fw' />
+                </div>
+                <div className='message-body is-size-5'>
+                  Calamity knows no borders, only Men's minds and maps do.
+                </div>
+
+              </article>
             </div>
           </div>
         </div>

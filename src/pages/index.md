@@ -15,12 +15,14 @@ campaign:
       underground tornado shelter.
 offerings:
   blurbs:
-    - image: /img/HuRLO-man.gif
+    - slug: hurricane-preparation-2017
+      image: /img/HuRLO-man.gif
       text: >
-        <strong>Hurricane Preparation 2017</strong> By: Patrap<br/><br/>
+        <strong>Hurricane Preparation 2017</strong> <i>By: Patrap</i><br/><br/>
         It's time to dust off that family disaster plan, or in many cases, create one.
         Keeping your family safe during a hurricane starts with proper planning.
-    - image: /img/tropical-tidbits.png
+    - slug: some-stuff
+      image: /img/tropical-tidbits.png
       text: >
         Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
         Nam ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque
@@ -32,7 +34,8 @@ offerings:
         congue facilisis. Nulla convallis, lectus vel vehicula interdum, turpis
         nunc aliquet sem, ac iaculis ligula mauris id tortor. Sed eget ornare
         orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.
-    - image: /img/portlight-logo.png
+    - slug: some-other-stuff
+      image: /img/portlight-logo.png
       text: >
         Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus
         vitae sollicitudin pharetra, ipsum augue tristique urna, in rhoncus quam
@@ -44,7 +47,8 @@ offerings:
         tortor. Phasellus leo dui, elementum non sollicitudin eget, porta
         vehicula odio. Sed mollis, metus sit amet porttitor vehicula, quam augue
         pretium erat, at commodo nisl tellus non risus.
-    - image: /img/underground-shelter.jpg
+    - slug: some-more-stuff
+      image: /img/underground-shelter.jpg
       text: >
         Vestibulum libero lectus, dignissim eget magna sit amet, malesuada
         tincidunt mi. Vivamus sed erat iaculis mauris efficitur vehicula.
@@ -59,7 +63,10 @@ offerings:
 testimonials:
   - author: Karynell - Puerto Rico
     quote: >-
-      I don’t have words to thank y’all for this generator. My sister was crying on the phone and my heart is beating so fast because I know this is really important for them. Thanks thanks a lot. She got it and yall make a wish come true.
+      I don’t have words to thank y’all for this generator. My sister was crying on
+      the phone and my heart is beating so fast because I know this is really
+      important for them. Thanks thanks a lot. She got it and yall make a wish
+      come true.
 
 meta_title: Home | hurriup.org
 meta_description: >-

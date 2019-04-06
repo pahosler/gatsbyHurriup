@@ -48,6 +48,7 @@ export const pageQuery = graphql`
           blurbs {
             image
             text
+            slug
           }
         }
         testimonials {

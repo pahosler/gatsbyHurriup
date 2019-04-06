@@ -19,7 +19,7 @@ this is the thing natoque penatibus et magnis dis parturient montes, nascetur ri
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
-## Most Amazing Blogging Experience.
+## _Most Amazing Blogging Experience_.
 
 ![shelter](/img/underground-shelter.jpg)
 

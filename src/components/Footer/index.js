@@ -3,7 +3,7 @@ import config from '../../../data/config'
 
 const Footer = () => {
   return (
-    <footer className='footer'>
+    <footer className='footer is-warning is-bold'>
       <div className='columns'>
         <div className='column is-4'>
           <div className='content'>

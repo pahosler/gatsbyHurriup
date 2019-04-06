@@ -3,7 +3,7 @@ import hurricaneVideo from '../../assets/img/hurricane-irma.mp4'
 
 const HurricaneVideo = ({ className }) => (
   <div className={className}>
-    <video autoPlay muted loop preload='true' className='video-bg'>
+    <video playsinline autoPlay muted loop poster preload='true' >
       <source src={hurricaneVideo} type='video/mp4' />
     </video>
   </div>
