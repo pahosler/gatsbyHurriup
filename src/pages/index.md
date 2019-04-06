@@ -62,10 +62,10 @@ offerings:
         risus.
     - image: /img/pet-disaster-preparedness.jpg
       text: >-
-        # Dogs Like Rain
+        Dogs Like Rain
 
 
-        _by P.A. Hosler_
+        by P.A. Hosler
 
 
         Once upon a dream in another lifetime, cheese doodles frolicked in the
