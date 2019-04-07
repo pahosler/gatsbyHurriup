@@ -72,47 +72,46 @@ const HomePageTemplate = ({
     </section>
 
     <section className='section'>
-
       <div className='columns is-mobile is-centered'>
         <div className='content'>
           <Campaign contents={campaign} />
-          <div className='columns'>
-            <div className='column is-4 is-offset-4'>
-              <div className='has-text-centered is-size-2'>
-                <div>
-                  Thank Y
-                  <i
-                    className='heart fa fa-heart-o fa-fw is-size-2'
-                    aria-hidden='true'
-                    style={{ marginRight: -10 }}
-                  />
-                  U for supporting our efforts
-                </div>
-              </div>
+        </div>
+      </div>
+    </section>
+
+    <section className='section'>
+      <div className='columns'>
+        <div className='column is-4 is-offset-4'>
+          <div className='has-text-centered is-size-2'>
+            <div>
+              Thank Y
+              <i
+                className='heart fa fa-heart-o fa-fw is-size-2'
+                aria-hidden='true'
+                style={{ marginRight: -10 }}
+              />
+                U for supporting our efforts
             </div>
           </div>
-          <div className='columns'>
-            <div className='column is-4 is-offset-4'>
-
-              <article className='message has-text-centered is-darkseagreen' >
-                <div style={{float: 'left', marginTop: 40}}>
-                  <i className='fa fa-quote-left fa-2x fa-fw' />
-                </div>
-                <div style={
-                  {
-                    float: 'right',
-                    marginTop: 40,
-                  }
-                } >
-                  <i className='fa fa-quote-right fa-2x fa-fw' />
-                </div>
-                <div className='message-body is-size-5'>
-                  Calamity knows no borders, only Men's minds and maps do.
-                </div>
-
-              </article>
+        </div>
+      </div>
+      <div className='columns'>
+        <div className='column is-4 is-offset-4'>
+          <article className='message has-text-centered is-darkseagreen' >
+            <div style={{float: 'left', marginTop: 40}}>
+              <i className='fa fa-quote-left fa-2x fa-fw' />
             </div>
-          </div>
+            <div style={
+              {
+                float: 'right',
+                marginTop: 40,
+              }} >
+              <i className='fa fa-quote-right fa-2x fa-fw' />
+            </div>
+            <div className='message-body is-size-5'>
+                Calamity knows no borders, only Men's minds and maps do.
+            </div>
+          </article>
         </div>
       </div>
     </section>

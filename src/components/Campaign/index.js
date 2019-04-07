@@ -23,7 +23,9 @@ const Campaign = ({ contents }) => (
             <div className='column is-10 is-offset-1' >
               <div className='paypal' >
                 <Paypal />
-              </div> </div> </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     ))}
