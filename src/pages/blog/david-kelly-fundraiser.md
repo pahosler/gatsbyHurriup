@@ -20,8 +20,7 @@ hurriup.org is raising funds for David Kelly and his family in Lee County Alabam
 
 ## How We're Helping
 
-![shelter](/img/allegiant-storm-shelter.jpg)
-<p style='font-size: .8em; text-align: center;'>This is not an endorsement or paid advertisement</p>
+![shelter](/img/allegiant-storm-shelter.jpg "This is not an endorsement or paid advertisement")
 
 We are raising funds to buy the Kelly Family a below-ground storm shelter from Lowe's. The est. cost for the shelter is $3000.00, and we are hoping to have it installed by a local contractor.
 

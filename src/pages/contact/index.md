@@ -1,6 +1,6 @@
 ---
 templateKey: contact-page
-title: Contact Us - UNDER CONSTRUCTION
+title: Contact Us
 subtitle: 'We''d Love To Hear From You, Feel Free To Drop A Mail'
 contacts:
   - description: changed subheading
@@ -12,4 +12,3 @@ meta_description: >-
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
 ---
-

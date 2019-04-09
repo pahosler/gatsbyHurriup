@@ -49,34 +49,16 @@ offerings:
         <li>Can happen along any U.S. coast or in any territory in the Atlantic or Pacific oceans.</li>
         <li>Can affect areas more than 100 miles inland.</li>
         <li>Are most active in September.</li>
-    - slug: some-more-stuff
-      image: /img/underground-shelter.jpg
+    - slug: hurricane-preparedness-tips
+      image: /img/prepare-for-a-hurricane.jpg
       text: >
-        Vestibulum libero lectus, dignissim eget magna sit amet, malesuada
-        tincidunt mi. Vivamus sed erat iaculis mauris efficitur vehicula.
-        Aliquam sed urna at tellus ullamcorper venenatis molestie ut mi. Duis
-        vel libero ac lectus cursus tempus. Nullam in dictum felis. Nam sed
-        laoreet turpis. Sed pretium urna consequat lorem tincidunt, ac
-        scelerisque nisi sodales. Cras tristique laoreet tempor. Mauris vitae
-        dolor eu mauris malesuada cursus. Praesent elit lectus, iaculis vel odio
-        vitae, bibendum auctor lacus. Suspendisse potenti. In tempor, massa quis
-        euismod convallis, felis elit sodales urna, at aliquet mi elit auctor
-        risus.
-    - image: /img/pet-disaster-preparedness.jpg
-      text: >-
-        Dogs Like Rain
+        Hurricane Preparedness Tips Hurricane hazards come in many forms;
+        storm surge, high winds, tornadoes, and flooding. This means it is
+        important for your family to have a plan that includes all of these
+        hazards. Look carefully at the safety actions associated with each
+        type of hurricane hazard and prepare your family disaster plan
+        accordingly. But remember this is only a guide.
 
-
-        by P.A. Hosler
-
-
-        Once upon a dream in another lifetime, cheese doodles frolicked in the
-        Autumn mists of Brumbalee. One day it rained, and the dogs came out to
-        play. Dogs being dogs, they ate the cheese doodles, because dogs
-        **LOVE** cheese. The End... _or is it?_
-
-
-        **[hurriup...](https://hurriup.org)**
 testimonials:
   - author: Karynell - Puerto Rico
     quote: >-
