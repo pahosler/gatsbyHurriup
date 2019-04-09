@@ -58,11 +58,11 @@ const HomePageTemplate = ({
             <div className='column is-half'>
               <div className='content'>
                 <div>
-                  <h1 className='has-text-weight-semibold has-text-centered'>
+                  <h1 className='has-text-weight-semibold has-text-centered is-size-1'>
                     {heading}
                   </h1>
                   <div>
-                    <p className='has-text-centered'>{description}</p>
+                    <p className='has-text-centered is-size-4'>{description}</p>
                   </div>
                 </div>
               </div>

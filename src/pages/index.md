@@ -9,10 +9,17 @@ description: >-
   disasters.
 campaign:
   - image: /img/david-kelly-headshot.jpg
+    heading: Fundraiser For David Kelly
     slug: david-kelly-fundraiser
     text: >
-      Fundraiser to help David Kelly and his family purchase and install an
-      underground tornado shelter.
+      <strong>notice from Patrick Pearson:</strong><br/>
+      hurriup.org has purchased a Storm Shelter for David Kelley and his family.
+      This 14000lb concrete EZ access shelter is in Broken Arrow Oklahoma,
+      743 miles from Opelika Alabama. Any help in transporting this item is much
+      appreciated. <br/>
+      Thank you kindly<br/><br/>
+      Patrick<br/>
+      hurriup1@gmail.com
 offerings:
   blurbs:
     - slug: hurricane-preparation-2017
@@ -22,18 +29,17 @@ offerings:
         time to dust off that family disaster plan, or in many cases, create
         one. Keeping your family safe during a hurricane starts with proper
         planning.
-    - image: /img/tropical-tidbits.png
+    - slug: tornado-safety
+      image: /img/nikolas-noonan-682177-unsplash.jpg
       text: >
-        Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
-        Nam ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque
-        luctus neque id mauris accumsan, nec imperdiet justo eleifend. Nulla
-        viverra, ipsum sit amet interdum pharetra, felis lorem sollicitudin
-        felis, vehicula finibus enim nunc facilisis sapien. Donec nulla nisi,
-        dictum quis nibh et, euismod semper eros. Praesent nunc tortor,
-        consequat eu justo ac, dictum viverra enim. Etiam sed dui dapibus mauris
-        congue facilisis. Nulla convallis, lectus vel vehicula interdum, turpis
-        nunc aliquet sem, ac iaculis ligula mauris id tortor. Sed eget ornare
-        orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.
+        Tornadoes can destroy buildings, flip cars, and create deadly flying
+        debris. Tornadoes are violently rotating columns of air that extend
+        from a thunderstorm to the ground.<br/>
+        Tornadoes can:
+
+        <li>Happen anytime and anywhere;</li>
+        <li>Bring intense winds, over 200 MPH; and</li>
+        <li>Look like funnels.</li>
     - slug: some-other-stuff
       image: /img/portlight-logo.png
       text: >
