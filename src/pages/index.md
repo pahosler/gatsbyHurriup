@@ -40,19 +40,15 @@ offerings:
         <li>Happen anytime and anywhere;</li>
         <li>Bring intense winds, over 200 MPH; and</li>
         <li>Look like funnels.</li>
-    - slug: some-other-stuff
-      image: /img/portlight-logo.png
+    - slug: hurricane-safety-tips
+      image: /img/nasa-63030-unsplash.jpg
       text: >
-        Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus
-        vitae sollicitudin pharetra, ipsum augue tristique urna, in rhoncus quam
-        tortor eget sem. Maecenas eu pharetra orci, ut malesuada nisl. Aliquam
-        erat volutpat. Curabitur egestas eros tincidunt, scelerisque lectus ac,
-        congue turpis. Fusce egestas sit amet elit et fringilla. Aliquam erat
-        volutpat. Vivamus ultrices venenatis maximus. Donec volutpat vitae quam
-        at fringilla. Sed luctus lacus vel tempus posuere. Ut suscipit auctor
-        tortor. Phasellus leo dui, elementum non sollicitudin eget, porta
-        vehicula odio. Sed mollis, metus sit amet porttitor vehicula, quam augue
-        pretium erat, at commodo nisl tellus non risus.
+        Hurricanes are massive storm systems that form over warm ocean waters and move toward land. Potential threats from hurricanes include powerful winds, heavy rainfall, storm surges, coastal and inland flooding, rip currents, tornadoes, and landslides. The Atlantic hurricane season runs from June 1 to November 30. The Pacific hurricane season runs May 15 to November 30.<br/>
+        Hurricanes:
+
+        <li>Can happen along any U.S. coast or in any territory in the Atlantic or Pacific oceans.</li>
+        <li>Can affect areas more than 100 miles inland.</li>
+        <li>Are most active in September.</li>
     - slug: some-more-stuff
       image: /img/underground-shelter.jpg
       text: >

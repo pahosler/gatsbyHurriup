@@ -8,8 +8,8 @@ const Campaign = ({ contents }) => (
     {contents.map((content, id) => (
       <div key={id}>
         <div className='columns'>
-          <div className='column is-offset-1'>
-            <h3 className='size-4' > {
+          <div className='column is-offset-3'>
+            <h3 className='is-size-3' > {
               content.heading
             }
             </h3>
@@ -21,8 +21,8 @@ const Campaign = ({ contents }) => (
 
             <img src={content.image} alt='' />
           </div>
-          <div className='column is-9'>
-            <p className='content' dangerouslySetInnerHTML={{__html: content.text}} />
+          <div className='column is-9 is-narrow'>
+            <p className='content' style={{width: '80%'}} dangerouslySetInnerHTML={{__html: content.text}} />
             <Link className='button is-small' to={`/blog/${content.slug}`}>
                 Keep Reading →
             </Link>
