@@ -31,14 +31,15 @@ const HomePageTemplate = ({
         <HurricaneVideo className={'is-hidden-mobile'} />
       </div>
       <div className='hero-body is-fullheight'>
-
-        <HurricaneStatic className={'maria-container is-hidden-desktop is-hidden-tablet'} />
-        <div className='box is-transparent'>
+        <HurricaneStatic className={'maria-container is-hidden-desktop'} />
+        <div className='box is-transparent'
+          style={{width: 350}}
+        >
           <img src={logo} style={{ height: 80 }} />
           <div className='subtitle'
             style={{
-              width: 350,
-              height: 20,
+              // width: 320,
+              // height: 20,
               color: '#ffffff',
               lineHeight: 1,
               fontWeight: 'bolder',
@@ -108,7 +109,7 @@ const HomePageTemplate = ({
               }} >
               <i className='fa fa-quote-right fa-2x fa-fw' />
             </div>
-            <div className='message-body is-size-5'>
+            <div className='message-body is-size-4'>
                 Calamity knows no borders, only Men's minds and maps do.
             </div>
           </article>
