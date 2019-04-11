@@ -100,8 +100,33 @@ nav
   color: red
   animation: beat 1s linear infinite alternate
 
+.masonry
+  transition: all .5s ease-in-out
+  column-gap: 10px
+  column-fill: initial
+
+.masonry .brick
+  margin-bottom: 10px
+  display: inline-block
+  vertical-align: top
+
+.masonry .brick img
+  transition: all .5s ease-in-out
+  backface-visibility: hidden
+
+.masonry .brick:hover img
+  opacity: .75
+
 @keyframes beat
   0%
     transform: scale(.5)
   100%
     transform: scale(1)
+
+@media only screen and (min-width: 768px) and (max-width: 1023px)
+  .masonry
+    column-count: 2
+
+@media only screen and (min-width: 1024px)
+  .masonry
+    column-count: 3

@@ -35,6 +35,13 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/src/assets/img/gallery`,
+        name: 'gallery',
+      },
+    },
+    {
       resolve: `gatsby-plugin-sitemap`,
     },
     {
