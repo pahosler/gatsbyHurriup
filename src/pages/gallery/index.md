@@ -32,9 +32,6 @@ images:
   - image: /img/gallery/puerto-rico-8.jpg
     note: |
       Damage from hurricane Maria 2017
-  - image: /img/twco_ibm_logo_group_0.jpg
-    note: |
-      weather related sites
 meta_title: Gallery | hurriup.org
 meta_description: >-
   hurriup.org gallery page. hurriup.org is dedicated to helping people who have
