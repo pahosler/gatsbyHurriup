@@ -32,6 +32,16 @@ images:
   - image: /img/gallery/puerto-rico-8.jpg
     note: |
       Damage from hurricane Maria 2017
+  - image: /img/electricity-transformers-destroyed-by-hurricane-maria.jpg
+    note: Downed transformers in Puerto Rico
+  - image: /img/genny1.jpg
+    note: Pup with generators waiting to be shipped to Puerto Rico
+  - image: /img/smiling-generator-recipient-puerto-rico.jpg
+    note: Karynell with her new generator donated by hurriup.org
+  - image: /img/ikerelieft.jpg
+    note: Teresa helping with shipments of water
+  - image: /img/portlight_crutches.jpg
+    note: Portlife volunteers unloading crutches
 meta_title: Gallery | hurriup.org
 meta_description: >-
   hurriup.org gallery page. hurriup.org is dedicated to helping people who have
