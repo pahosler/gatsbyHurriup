@@ -58,7 +58,7 @@ offerings:
         hazard and prepare your family disaster plan accordingly. But remember
         this is only a guide.
     - image: /img/pet-disaster-preparedness.jpg
-      slug: disaster-preparation-pet-care
+      slug: pet-care-disaster-preparedness
       text: >-
         Emergencies come in many forms, and they may require anything from a
         brief absence from your home to permanent evacuation. Each type of
