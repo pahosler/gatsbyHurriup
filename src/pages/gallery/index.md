@@ -6,7 +6,7 @@ heading: |
 description: >-
   hurriup.org gallery
 images:
-  - image: /assets/img/gallery/caicosgennys_1.jpg
+  - image: /img/gallery/caicosgennys_1.jpg
     note: >
       Fork truck positioning pallet of generators
   - image: /img/gallery/pat-with-noaa-g4.jpg
