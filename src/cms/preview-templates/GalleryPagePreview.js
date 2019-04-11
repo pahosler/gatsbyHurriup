@@ -13,7 +13,7 @@ const GalleryPagePreview = ({ entry, getAsset }) => {
       meta_description={entry.getIn(['data', 'meta_description'])}
       heading={entry.getIn(['data', 'heading'])}
       description={entry.getIn(['data', 'description'])}
-      images={{ images }}
+      images={images}
     />
   )
 }
