@@ -1,6 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import PropTypes from 'prop-types'
+import DonateTag from '../DonateTag'
 
 const GalleryPageTemplate = ({
   title,
@@ -14,6 +15,7 @@ const GalleryPageTemplate = ({
       <meta name='description' content={meta_description} />
     </Helmet>
     <section className='hero is-dark is-bold is-medium'>
+      <DonateTag />
       <div className='hero-body'>
         <div className='container'>
           <div className='columns'>
