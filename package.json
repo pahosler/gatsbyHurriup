@@ -6,9 +6,10 @@
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
-    "start": "npm run develop",
+    "start": "yarn run develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
+    "deploy": "netlify deploy --prod",
     "lint": "eslint --ext js,jsx --ignore-path .gitignore . --fix",
     "clean": "rm -rf public/ .cache/"
   },
