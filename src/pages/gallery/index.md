@@ -46,6 +46,8 @@ images:
     note: Storm shelter for David Kelly
   - image: /img/david-kelly-shelter-installed.jpg
     note: After the shelter was placed.
+  - image: /img/storm-shelter-entrance-1.jpg
+    note: shelter-door
 meta_title: Gallery | hurriup.org
 meta_description: >-
   hurriup.org gallery page. hurriup.org is dedicated to helping people who have
