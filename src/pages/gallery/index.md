@@ -42,6 +42,10 @@ images:
     note: Teresa helping with shipments of water
   - image: /img/portlight_crutches.jpg
     note: Portlife volunteers unloading crutches
+  - image: /img/david-kelly-shelter-installed2.jpg
+    note: Storm shelter for David Kelly
+  - image: /img/david-kelly-shelter-installed.jpg
+    note: After the shelter was placed.
 meta_title: Gallery | hurriup.org
 meta_description: >-
   hurriup.org gallery page. hurriup.org is dedicated to helping people who have
