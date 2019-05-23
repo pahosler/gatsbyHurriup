@@ -4,17 +4,20 @@ title: Fundraiser for David Kelly
 slug: david-kelly-fundraiser
 date: 2019-03-20T03:55:49.370Z
 cover: /img/david-kelly.jpg
-meta_title: Fundraiser for David Kelly
-meta_description: >-
-  hurriup.org is raising funds for David Kelly and his family
-  in Lee County Alabama. Mr. Kelly's home was damaged by the
-  tornado that struck Lee County on March 3, 2019.
 tags:
   - fundraiser
   - shelter
+meta_title: Fundraiser for David Kelly
+meta_description: >-
+  hurriup.org is raising funds for David Kelly and his family in Lee County
+  Alabama. Mr. Kelly's home was damaged by the tornado that struck Lee County on
+  March 3, 2019.
 ---
+<p style='font-size: .8em; text-align: left; width: 85%;'> Lee County Road 721 resident David Kelly sits on his front porch Wednesday, March 14, 2019. In the back, a window is boarded where it was additionally damaged by possible looters on March 4th, a day after a tornado swept through Lee County. - Emily Efinger/eenfinger@oanow.com</p><br/><br/>
 
-<p style='font-size: .8em; text-align: left; width: 85%;'> Lee County Road 721 resident David Kelly sits on his front porch Wednesday, March 14, 2019. In the back, a window is boarded where it was additionally damaged by possible looters on March 4th, a day after a tornado swept through Lee County. - Emily Efinger/eenfinger@oanow.com</p>
+![storm-shelter-for-david-kelly](/img/david-kelly-shelter-installed.jpg "Storm shelter installed.")
+
+<br/><br/>
 
 hurriup.org is raising funds for David Kelly and his family in Lee County Alabama. Mr. Kelly's home was damaged by the tornado that struck Lee County on March 3, 2019. A reported 23 deaths occured from that terrible storm. Mr. Kelly considers himself lucky to have survived.
 
@@ -33,4 +36,5 @@ Special thanks to everyone who donated so far, but we are still short of our goa
 For more about tornado safety and David Kelly's story, please read
 
 [Improperly Anchored Mobile Homes Involved 19 Of 23 Deaths Alabama Tornado](https://www.wunderground.com/cat6/Improperly-Anchored-Mobile-Homes-Involved-19-Of-23-Deaths-Alabama-Tornado)
+
 <div style='font-size: .8em; margin-top: -15px;'>by Bob Henson</div>
