@@ -5,6 +5,12 @@ heading: |
   Image Gallery
 description: hurriup.org gallery
 images:
+  - image: /img/storm-shelter-entrance-1.jpg
+    note: shelter-door
+  - image: /img/david-kelly-shelter-installed2.jpg
+    note: Storm shelter for David Kelly
+  - image: /img/david-kelly-shelter-installed.jpg
+    note: After the shelter was placed.
   - image: /img/gallery/caicosgennys_1.jpg
     note: |
       Fork truck positioning pallet of generators
@@ -42,12 +48,6 @@ images:
     note: Teresa helping with shipments of water
   - image: /img/portlight_crutches.jpg
     note: Portlife volunteers unloading crutches
-  - image: /img/david-kelly-shelter-installed2.jpg
-    note: Storm shelter for David Kelly
-  - image: /img/david-kelly-shelter-installed.jpg
-    note: After the shelter was placed.
-  - image: /img/storm-shelter-entrance-1.jpg
-    note: shelter-door
 meta_title: Gallery | hurriup.org
 meta_description: >-
   hurriup.org gallery page. hurriup.org is dedicated to helping people who have
