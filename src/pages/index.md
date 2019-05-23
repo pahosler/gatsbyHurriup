@@ -9,14 +9,12 @@ description: >-
   disasters.
 campaign:
   - heading: Fundraiser For David Kelly
-    image: /img/david-kelly-headshot.jpg
+    image: /img/david-kelly-shelter-installed.jpg
     slug: david-kelly-fundraiser
     text: >
-      <strong>notice from Patrick Pearson:</strong><br/> hurriup.org has
-      purchased a Storm Shelter for David Kelley and his family. This 14000lb
-      concrete EZ access shelter is in Broken Arrow Oklahoma, 743 miles from
-      Opelika Alabama. Any help in transporting this item is much appreciated.
-      <br/> Thank you kindly<br/><br/> Patrick<br/> hurriup1@gmail.com
+      Our fundraiser was successful and David Kelly received his new storm
+      shelter and had it installed. Thank you to everyone who supported this
+      effort. David and family are very grateful for all who helped.
 offerings:
   blurbs:
     - image: /img/HuRLO-man.gif
