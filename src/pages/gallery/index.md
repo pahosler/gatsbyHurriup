@@ -5,18 +5,18 @@ heading: |
   Image Gallery
 description: hurriup.org gallery
 images:
-  - image: /img/storm-shelter-entrance-1.jpg
-    note: shelter-door
   - image: /img/david-kelly-shelter-installed2.jpg
     note: Storm shelter for David Kelly
-  - image: /img/david-kelly-shelter-installed.jpg
-    note: After the shelter was placed.
   - image: /img/gallery/caicosgennys_1.jpg
     note: |
       Fork truck positioning pallet of generators
+  - image: /img/storm-shelter-entrance-1.jpg
+    note: shelter-door
   - image: /img/gallery/pat-with-noaa-g4.jpg
     note: |
       Patrick meets NOAA G4!
+  - image: /img/david-kelly-shelter-installed.jpg
+    note: After the shelter was placed.
   - image: /img/gallery/puerto-rico-2.jpg
     note: |
       Damage from hurricane Maria 2017
