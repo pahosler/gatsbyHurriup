@@ -1,17 +1,17 @@
 ---
 templateKey: article-page
 title: Tornado Safety ready.gov
-slug: tonado-safety
+slug: tornado-safety
 date: 2019-04-09T13:02:17.442Z
 cover: /img/tornado_v1_0.jpg
-meta_title: Tornado safety from ready.gov
-meta_description: >-
-  Tornadoes can destroy buildings, flip cars, and create deadly
-  flying debris. Tornadoes are violently rotating columns of air
-  that extend from a thunderstorm to the ground.
 tags:
   - tornado
   - safety
+meta_title: Tornado safety from ready.gov
+meta_description: >-
+  Tornadoes can destroy buildings, flip cars, and create deadly flying debris.
+  Tornadoes are violently rotating columns of air that extend from a
+  thunderstorm to the ground.
 ---
 
 # Tornadoes
